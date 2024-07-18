@@ -75,3 +75,6 @@ launcher = ServerLauncher(
 )
 
 launcher.launch_servers()
+
+# To monitor agents service we will open a new terminal 
+# llama-agents monitor --control-plane-url http://127.0.0.1:8000
