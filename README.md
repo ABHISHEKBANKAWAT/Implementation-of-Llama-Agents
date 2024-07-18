@@ -1,6 +1,6 @@
 # Implementation-of-Llama-Agents
 llama-agents is an async-first framework for building, iterating, and productionizing multi-agent systems, including multi-agent communication, distributed tool execution, human-in-the-loop, and more!
-If you want to know more **You can read more about this in my [Article]([url](https://www.analyticsvidhya.com/blog/2024/07/llama-agents-agents-as-a-service/?utm_source=social%20&utm_medium=github))**
+If you want to know more **You can read more about this in my [Article](https://www.analyticsvidhya.com/blog/2024/07/llama-agents-agents-as-a-service/?utm_source=social%20&utm_medium=github)**
 
 ## Basic Implementation of Llama Agents
 The flow of Implementation will be like this -
