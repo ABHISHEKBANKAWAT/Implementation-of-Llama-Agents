@@ -12,11 +12,11 @@ The flow of Implementation will be like this -
   
 ## How to create an AI agent?
 ### Creating an AI agent involves several steps:
-**1. Define the Agent's Purpose:** Determine the tasks or problems the agent will handle.
-**2. Select Tools and Models:** Choose appropriate algorithms, machine learning models, and tools.
-**3. Develop the Agent:** Write the code to implement the agent’s logic and integrate the tools and models.
-**4. Train the Agent:** Use relevant data to train the agent, improving its performance over time.
-**5. Test and Deploy:** Test the agent thoroughly and deploy it in the desired environment.
+1. Define the Agent's Purpose: Determine the tasks or problems the agent will handle.
+2. Select Tools and Models: Choose appropriate algorithms, machine learning models, and tools.
+3. Develop the Agent: Write the code to implement the agent’s logic and integrate the tools and models.
+4. Train the Agent: Use relevant data to train the agent, improving its performance over time.
+5. Test and Deploy: Test the agent thoroughly and deploy it in the desired environment.
 Frameworks like `llama-agents` can be used to streamline the process of building and deploying AI agents.
 
 The quickest way to get started is by using an existing agent (or agents) and integrating them into a launcher.
